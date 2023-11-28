@@ -1,11 +1,13 @@
 # RushMod-T8
 a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
-Download -> https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases
+[Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
+
+Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
 ------------------
 
-### - Main Quest For Alpha Omega IS NOT SUPPORTED! (high likely will crash - will fix it later!)
+### - Main Quest For Alpha Omega IS NOT SUPPORTED! (high likely will crash - will get updated soon!)
 
 ------------------
 
