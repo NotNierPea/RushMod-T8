@@ -32,7 +32,7 @@ Download -> https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases
 
 # Credits:
 - Main Mod - peawhatever/@NotNierPea
-- Compiler by Serious
+- Serious - The Compiler and GSC Modding, without him this wouldn't be possible at all
 - ATE47 - Modified Compiler for Detours, Lazylink, dll for Reversing and Fixing Errors, Some Functions
 - Jek47 - Trigger System and Some Functions
 - Scrappy - Main Quest Scripts - Tag Fast Restart Fix Without Detours
