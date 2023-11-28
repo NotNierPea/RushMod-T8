@@ -15,6 +15,8 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
 ### Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
+### [Shield/Project Client](https://github.com/project-bo4/shield-development)
+
 # Features List:
 
 - Gamemods to Choose From at The Start of The Game -> Skip to Boss Fight, or Skip Some Main Quest Steps!, etc
