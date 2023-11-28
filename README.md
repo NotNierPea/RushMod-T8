@@ -3,10 +3,6 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
 ![Untitled-1](https://github.com/NotNierPea/RushMod-T8/assets/130810875/ca913020-d99a-4a32-b405-1a724bbf97cf)
 
-### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
-
-### Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
-
 ------------------
 
 ### - Main Quest For Alpha Omega IS NOT SUPPORTED! (high likely will crash - will get updated soon!)
@@ -14,6 +10,10 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 ------------------
 
 ### - This Project is in BETA!, report any bugs that happens, in [issues](https://github.com/NotNierPea/RushMod-T8/issues)!
+
+### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
+
+### Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
 # Features List:
 
