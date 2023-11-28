@@ -1,9 +1,11 @@
-# RushMod-T8
+![image](https://github.com/NotNierPea/RushMod-T8/assets/130810875/80164fda-927b-4525-9f84-75447e570014)# RushMod-T8
 a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
-[Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
+![Untitled-1](https://github.com/NotNierPea/RushMod-T8/assets/130810875/ca913020-d99a-4a32-b405-1a724bbf97cf)
 
-Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
+### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
+
+### Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
 ------------------
 
@@ -18,6 +20,7 @@ Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree
 - Gamemods to Choose From at The Start of The Game -> Skip to Boss Fight, or Skip Some Main Quest Steps!, etc
 - Weapons/Perks/PAP to Choose From at The Start of The Game
 - Custom Huds - Zombies Count (Only Works for Host)
+- Some Secret and Useless EEs (Some Maps)
 - Modified Main Quest Cutscenes (All Maps)
 - Custom/Buffed Boss Fights
 - Start The Game at Round 256
