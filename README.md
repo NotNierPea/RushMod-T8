@@ -11,11 +11,11 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
 ### - This Project is in BETA!, report any bugs that happens, in [issues](https://github.com/NotNierPea/RushMod-T8/issues)!
 
-### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
+### Release: [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases)
 
-### Inject Using Jek's Tool -> [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
+### Injector:  [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
-### [Shield/Project Client](https://github.com/project-bo4/shield-development)
+### Client Needed to Run This Mod: [Shield/Project Client](https://github.com/project-bo4/shield-development)
 
 # Features List:
 
