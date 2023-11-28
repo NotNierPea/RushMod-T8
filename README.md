@@ -15,7 +15,8 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
 ### [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
-### Client Needed to Run This Mod: [Shield/Project Client](https://github.com/project-bo4/shield-development)
+### Client Needed to Run This Mod (Ate's one or else crash): [Shield/Project Client](https://github.com/ate47/shield-development/tree/dev_gsc)
+### [Client Launcher](https://github.com/bodnjenie14/Project_-bo4_Launcher) - Without Compiling
 
 - The Mod will be Reworked to Run Without The Client Soon!
 
