@@ -5,7 +5,7 @@ Download -> https://github.com/NotNierPea/RushMod-T8/releases/tag/Releases
 
 ------------------
 
-- Main Quest For Alpha Omega IS NOT SUPPORTED! (high likely will crash)
+- Main Quest For Alpha Omega IS NOT SUPPORTED! (high likely will crash - will fix it later!)
 
 ------------------
 
