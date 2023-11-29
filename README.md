@@ -19,7 +19,8 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
 ### Client Needed to Run This Mod: [Shield Client Launcher](https://github.com/bodnjenie14/Project_-bo4_Launcher)
 
-Edit Project/Shield Config and Set dev_funcs to true or else you will Crash!
+### Edit Project/Shield Config and Set dev_funcs to true or else you will Crash!
+
 ```
 "gsc":
 {
