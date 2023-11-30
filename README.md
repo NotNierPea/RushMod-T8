@@ -1,7 +1,7 @@
 # RushMod-T8
 a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
-![Untitled-1](https://github.com/NotNierPea/RushMod-T8/assets/130810875/ca913020-d99a-4a32-b405-1a724bbf97cf)
+![rushmod](https://github.com/NotNierPea/RushMod-T8/assets/130810875/119c8414-b0ff-4e88-b70d-7ac93d90e7ab)
 
 ------------------
 
