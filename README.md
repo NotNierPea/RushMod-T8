@@ -11,11 +11,13 @@ a Mod for BO4 Zombies - Project/Shield Client Only! (has detours, huds etc)
 
 # Downloads
 
-### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/1.4V)
+### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/1.5V)
 
 ### [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 
 ### Client Needed to Run This Mod: [Shield Client Launcher](https://github.com/bodnjenie14/Project_-bo4_Launcher)
+
+### Make Sure to Inject the CSCC with all Players in The Party!, GSIC is Only For The Host!
 
 ### Edit Project/Shield Config and Set dev_funcs to true or else you will Crash!
 
