@@ -49,6 +49,14 @@
 - Main Characters Changing Randomly
 - Skips PAP/Power Quest, Some Steps for Other Maps....
 - and many more!
+---
+- #### After Update 1.7V, Now it has a mod menu included! (hotkey to activate - jump and aim and interact)
+
+<p align="left">
+  <img src="https://github.com/NotNierPea/RushMod-T8/assets/130810875/cc876c53-7e98-4c01-a3a9-65acbc2d80d4" width="250"/>
+  <img src="https://github.com/NotNierPea/RushMod-T8/assets/130810875/18d9f9f0-9863-40b1-94c3-e441bb630f35" width="250"/>
+  <img src="https://github.com/NotNierPea/RushMod-T8/assets/130810875/e2f768f8-57cb-49c3-88b9-c9b4fe62a167" width="250"/>
+</p>
 
 ------------------
 
