@@ -11,7 +11,7 @@
 
 # Downloads
 
-- ### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/1.6.3V)
+- ### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/1.7V)
 
 - ### [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
 - ### Make Sure to Inject the CSCC with all Players in The Party!, GSIC is Only For The Host!
@@ -58,7 +58,7 @@
 - [ATE47](https://github.com/ate47) - Modified Compiler for Detours, Lazylink, dll for Reversing and Fixing Errors, Some Functions
 - [Jek47](https://github.com/Jek47) - Trigger System and Some Functions
 - [GerardS0406](https://github.com/GerardS0406) - Survival Maps Functions/Gamesettings
-- [G1llam](https://github.com/G1llam/)/[TheUnknownCod3r](https://github.com/TheUnknownCod3r)/[SirCryptic](https://github.com/SirCryptic)/[TubBuddy](https://www.github.com/TubBuddy) - For my custom menu that i used for testing
+- [G1llam](https://github.com/G1llam/)/[TheUnknownCod3r](https://github.com/TheUnknownCod3r)/[SirCryptic](https://github.com/SirCryptic)/[TubBuddy](https://www.github.com/TubBuddy) - For my Dev menu that i used for testing
 - futilitymen(NTC) - Helped with Rush Ending Rounds Function
 - [Scrappy](https://github.com/Joshr520) - Main Quest Scripts - Tag Fast Restart Fix Without Detours
 
