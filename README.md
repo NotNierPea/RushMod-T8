@@ -9,12 +9,12 @@
 
 ------------------
 
-# Downloads
+# Installation
 
 - ### [Download](https://github.com/NotNierPea/RushMod-T8/releases/tag/1.7V)
 
-- ### [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)
-- ### Make Sure to Inject the CSCC with all Players in The Party!, GSIC is Only For The Host!
+- ### To Load The Mod, Use Shield Client and Put The Mod in ``Call of Duty Black Ops 4\project-bo4\mods`` (Extract The Mod First!)
+  #### or else you could use the [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC) (Make Sure to Inject the CSCC with all Players in The Party!, GSIC is Only For The Host!)
 
 - ### Client Needed to Run This Mod: [Shield Client Launcher](https://github.com/bodnjenie14/Project_-bo4_Launcher)
 
