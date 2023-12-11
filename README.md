@@ -69,5 +69,6 @@
 - [G1llam](https://github.com/G1llam/)/[TheUnknownCod3r](https://github.com/TheUnknownCod3r)/[SirCryptic](https://github.com/SirCryptic)/[TubBuddy](https://www.github.com/TubBuddy) - For my Dev menu that i used for testing
 - futilitymen(NTC) - Helped with Rush Ending Rounds Function
 - [Scrappy](https://github.com/Joshr520) - Main Quest Scripts - Tag Fast Restart Fix Without Detours
+- [bodnjenie14](https://github.com/bodnjenie14) - For Testing The Mod in Shield Client and other stuff
 
 
