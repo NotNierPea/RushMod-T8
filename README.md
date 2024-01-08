@@ -14,7 +14,7 @@
 - ### [Download](https://github.com/NotNierPea/RushMod-T8/releases)
 
 - ### To Load The Mod, Use Shield Client and Put The Mod in ``Call of Duty Black Ops 4\project-bo4\mods`` (Extract The Mod First!)
-  ~~#### or else you could use the [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)~~, This doesn't work anymore after Update 1.7.3V!
+  #### ~~or else you could use the [Injector](https://github.com/Jek47/BO4-GSC-Mods/tree/main/Tools/PC)~~, This doesn't work anymore after Update 1.7.3V!
 
 - ### Client Needed to Run This Mod: [Shield Client Launcher](https://github.com/bodnjenie14/Project_-bo4_Launcher)
 
