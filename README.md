@@ -61,13 +61,13 @@
 ------------------
 
 # Credits:
-- [peawhatever/NotNierPea](https://github.com/NotNierPea) - Main Mod
-- [Serious/shiversoftdev](https://www.github.com/shiversoftdev) - The Compiler and GSC Modding, without him this wouldn't be possible at all
-- [ATE47](https://github.com/ate47) - Modified Compiler for Detours, Lazylink, dll for Reversing and Fixing Errors, Some Functions
-- [Jek47](https://github.com/Jek47) - Trigger System and Some Functions
-- [GerardS0406](https://github.com/GerardS0406) - Survival Maps Functions/Gamesettings
-- [G1llam](https://github.com/G1llam/)/[TheUnknownCod3r](https://github.com/TheUnknownCod3r)/[SirCryptic](https://github.com/SirCryptic)/[TubBuddy](https://www.github.com/TubBuddy) - For my Dev menu that i used for testing
-- futilitymen(NTC) - Helped with Rush Ending Rounds Function
+- #### [peawhatever/NotNierPea](https://github.com/NotNierPea) - Main Mod
+- #### [Serious/shiversoftdev](https://www.github.com/shiversoftdev) - The Compiler and GSC Modding, without him this wouldn't be possible at all
+- #### [ATE47](https://github.com/ate47) - Modified Compiler for Detours, Lazylink, dll for Reversing and Fixing Errors, Some Functions
+- #### [Jek47](https://github.com/Jek47) - Trigger System and Some Functions
+- #### [GerardS0406](https://github.com/GerardS0406) - Survival Maps Functions/Gamesettings
+- #### [G1llam](https://github.com/G1llam/)/[TheUnknownCod3r](https://github.com/TheUnknownCod3r)/[SirCryptic](https://github.com/SirCryptic)/[TubBuddy](https://www.github.com/TubBuddy) - For my Dev menu that i used for testing
+- #### futilitymen(NTC) - Helped with Rush Ending Rounds Function
 - [Scrappy](https://github.com/Joshr520) - Main Quest Scripts - Tag Fast Restart Fix Without Detours
 - [bodnjenie14](https://github.com/bodnjenie14) - For Testing The Mod in Shield Client and other stuff
 
