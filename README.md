@@ -27,7 +27,7 @@
 }
 ```
 
-- The Mod will be Reworked to Run Without The Client Soon!
+- #### ~~The Mod will be Reworked to Run Without The Client Soon!~~, Impossible due to Custom Strings, LUA/LUI, and other things....
 
 # Features List:
 
