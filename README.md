@@ -33,8 +33,8 @@
 
 - Gamemods to Choose From at The Start of The Game -> Skip to Boss Fight, or Skip Some Main Quest Steps!, etc
 - Weapons/Perks/PAP to Choose From at The Start of The Game
-- Custom Huds - Zombies Count/Rush Events (~~Only Works for Host~~, Now works for all players with CSCC!)
-- Bosses Health Huds (Only Works for Host!, for now)
+- Custom Huds - Zombies Count/Rush Events (~~Only Works for Host~~, Now works for all players with ~~CSC~~ LUA/LUI!)
+- Bosses Health Huds (~~Only Works for Host!~~, Now works for all players with LUA/LUI!)
 - Some Secret and Useless EEs (Some Maps)
 - Modified Main Quest Cutscenes (All Maps)
 - Custom/Buffed Boss Fights
