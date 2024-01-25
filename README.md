@@ -31,24 +31,24 @@
 
 # Features List:
 
-- Gamemods to Choose From at The Start of The Game -> Skip to Boss Fight, or Skip Some Main Quest Steps!, etc
-- Weapons/Perks/PAP to Choose From at The Start of The Game
-- Custom Huds - Zombies Count/Rush Events (~~Only Works for Host~~, Now works for all players with ~~CSC~~ LUA/LUI!)
-- Bosses Health Huds (~~Only Works for Host!~~, Now works for all players with LUA/LUI!)
-- Some Secret and Useless EEs (Some Maps)
-- Modified Main Quest Cutscenes (All Maps)
-- Custom/Buffed Boss Fights
-- Start The Game at Round 256
-- Random Rush/Chaos Events
-- Reversed/Buffed Main Quest Steps (Start From Last Step to First Step - Some Maps Only)
-- Custom Game Over Functions + Fast Restart Fix for Voyage and Tag
-- Points are Always your Health
-- Custom Zombies Models (Different From Every Map!)
-- Custom Zombies Death Sounds
-- Ducks/Widows Wine Everywhere (yes its actually a thing)
-- Main Characters Changing Randomly
-- Skips PAP/Power Quest, Some Steps for Other Maps....
-- and many more!
+- #### Gamemods to Choose From at The Start of The Game -> Skip to Boss Fight, or Skip Some Main Quest Steps!, etc
+- #### Weapons/Perks/PAP to Choose From at The Start of The Game
+- #### Custom Huds - Zombies Count/Rush Events (~~Only Works for Host~~, Now works for all players with ~~CSC~~ LUA/LUI!)
+- #### Bosses Health Huds (~~Only Works for Host!~~, Now works for all players with LUA/LUI!)
+- #### Some Secret and Useless EEs (Some Maps)
+- #### Modified Main Quest Cutscenes (All Maps)
+- #### Custom/Buffed Boss Fights
+- #### Start The Game at Round 256
+- #### Random Rush/Chaos Events
+- #### Reversed/Buffed Main Quest Steps (Start From Last Step to First Step - Some Maps Only)
+- #### Custom Game Over Functions + Fast Restart Fix for Voyage and Tag
+- #### Points are Always your Health
+- #### Custom Zombies Models (Different From Every Map!)
+- #### Custom Zombies Death Sounds
+- #### Ducks/Widows Wine Everywhere (yes its actually a thing)
+- #### Main Characters Changing Randomly
+- #### Skips PAP/Power Quest, Some Steps for Other Maps....
+- #### and many more!
 ---
 - #### After Update 1.7V, Now it has a mod menu included! (hotkey to activate - jump and aim and interact)
 
