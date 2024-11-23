@@ -71,4 +71,6 @@
 - #### [Scrappy](https://github.com/Joshr520) - Main Quest Scripts - Tag Fast Restart Fix Without Detours
 - #### [bodnjenie14](https://github.com/bodnjenie14) - For Testing The Mod in Shield Client and other stuff
 
+------------------
 
+## [Source Code](https://github.com/NotNierPea/rush-mod-source)
