@@ -18,7 +18,7 @@
 
 - ### Client Needed to Run This Mod: [Shield Client Launcher](https://github.com/bodnjenie14/Project_-bo4_Launcher)
 
-- ### Edit Project/Shield Config and Set dev_funcs to true or else you will Crash!
+- ### Edit Project/Shield Config (project-bo4.json in bo4 files) and Set dev_funcs to true or else you will Crash!
 
 ```
 "gsc":
